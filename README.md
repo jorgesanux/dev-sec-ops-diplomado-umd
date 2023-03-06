@@ -43,7 +43,11 @@ Ya creado el repositorio en GitHub
 ![Crear repositorio 4](./images/Crearepo4.png)
 
 Iremos a nuestro pc y localizaremos Git Bash
+
+
 ![Crear repositorio 5](./images/Crearepo5.png)
+
+
 ![Crear repositorio 6](./images/Crearepo6.png)
 
 Como nos menciona la pagina de GitHub ingresaremos las líneas en el Git-Bash
@@ -51,9 +55,17 @@ Como nos menciona la pagina de GitHub ingresaremos las líneas en el Git-Bash
 
 Crearemos una carpeta y continuaremos ingresando las líneas que nos proporciona GitHub
 ![Crear repositorio 8](./images/Crearepo8.png)
+
+
 ![Crear repositorio 9](./images/Crearepo9.png)
+
+
 ![Crear repositorio 10](./images/Crearepo10.png)
+
+
 ![Crear repositorio 11](./images/Crearepo11.png)
+
+
 ![Crear repositorio 12](./images/Crearepo12.png)
 
 Luego de ejecutar todas nuestras líneas, ya hemos creado el repositorio y hecho nuestro primer commit.
