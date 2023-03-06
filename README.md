@@ -1,8 +1,7 @@
 # DEV-SEC-OPS diplomado UMD
 
-![Logo uniminuto](https://upload.wikimedia.org/wikipedia/commons/d/db/Logotipo_de_la_Corporaci%C3%B3n_Universitaria_Minuto_de_Dios.svg)
-
-![Logo git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+![Logo uniminuto](/images/logo-umd.jpg)
+![Logo git](/images/logo-git.png)
 
 Repositorio con comandos y usos básicos de Git, herramienta para la gestión y el versionamiento del código en diferentes sistemas operativos.
 
