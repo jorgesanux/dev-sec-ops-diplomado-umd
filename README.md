@@ -7,6 +7,16 @@
 
 Repositorio con comandos y usos básicos de Git, herramienta para la gestión y el versionamiento del código en diferentes sistemas operativos.
 
+---
+
+## Tabla de contenido
+
+1. [Contexto](#-comandos-básicos-de-git)
+2. [Crear un repositorio](#-crear-un-repositorio)
+3. [Agregar token de autenticación de GitHub](#-agregar-token-de-autenticación-de-github)
+4. [Subida y bajada de cambios a un repositorio remoto](#-subida-y-bajada-de-cambios-a-un-repositorio-remoto)
+5. [Autores](#autores)
+
 ## ⌨ Comandos básicos de GIT
 Git es un software que se puede denominar como un sistema de control de versiones distribuido. Como lo menciona en su [pagina principal](https://git-scm.com/):
 
@@ -27,3 +37,10 @@ Encargado: Alberto
 
 ### 💻 Subida y bajada de cambios a un repositorio remoto
 Encargado: Jorge
+
+### Autores
+🤵[Jorge Sanabria](https://github.com/jorgesanux)
+
+👨‍💻[Alberto Salazar](https://github.com/albersamart)
+
+👨‍🍳[Jhoan Torres](https://github.com/jhoant1510)
