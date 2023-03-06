@@ -40,6 +40,8 @@ Daremos nombre a nuestro repositorio y de acuerdo a su preferencia lo manejaremo
 ![Crear repositorio 3](./images/crearepo3.png)
 
 Ya creado el repositorio en GitHub
+
+
 ![Crear repositorio 4](./images/crearepo4.png)
 
 Iremos a nuestro pc y localizaremos Git Bash
@@ -54,6 +56,8 @@ Como nos menciona la pagina de GitHub ingresaremos las líneas en el Git-Bash
 ![Crear repositorio 7](./images/crearepo7.png)
 
 Crearemos una carpeta y continuaremos ingresando las líneas que nos proporciona GitHub
+
+
 ![Crear repositorio 8](./images/crearepo8.png)
 
 
