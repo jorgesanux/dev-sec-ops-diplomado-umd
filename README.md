@@ -15,6 +15,7 @@ Git es un software que se puede denominar como un sistema de control de versione
 Git es una herramienta muy poderosa que se utiliza en la mayoría de proyectos y empresas dedicadas al desarrollo del software. Su potencial y versatilidad ha permitido su rápida adopción sobre todo tipo de proyectos alrededor del mundo. Las compañías y proyectos más grandes hacen uso de Git para gestionar su flujo de desarrollo con miles de desarrolladores de forma simultánea.
 
 ![Imagen de ejemplos de comandos de git](https://res.cloudinary.com/practicaldev/image/fetch/s--AS0ya8UC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/rixan4h4z8y94eq89som.png)
+*Tomada de: [🌳🚀 CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)*
 
 ### Crear un repositorio
 Encargado: Johan
