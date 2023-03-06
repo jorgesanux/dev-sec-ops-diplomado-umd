@@ -31,7 +31,6 @@ Git es una herramienta muy poderosa que se utiliza en la mayoría de proyectos y
 *Tomada de: [🌳🚀 CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)*
 
 ### 🛠 Crear un repositorio
-Encargado: Johan
 
 Iremos al portal directo de GitHub y daremos clic en el botón New.
 ![Crear repositorio 1](./images/Crearepo1.jpg)
