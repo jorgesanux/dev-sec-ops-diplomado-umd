@@ -1,4 +1,4 @@
-# DEV-SEC-OPS diplomado UMD
+# 🔒 DEV-SEC-OPS diplomado UMD
 
 <p align="center">
     <img src="./images/logo-umd.jpg" alt="logo" width="256"/>
@@ -7,7 +7,7 @@
 
 Repositorio con comandos y usos básicos de Git, herramienta para la gestión y el versionamiento del código en diferentes sistemas operativos.
 
-## 🎹 Comandos básicos de GIT
+## ⌨ Comandos básicos de GIT
 Git es un software que se puede denominar como un sistema de control de versiones distribuido. Como lo menciona en su [pagina principal](https://git-scm.com/):
 
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
@@ -19,11 +19,11 @@ Git es una herramienta muy poderosa que se utiliza en la mayoría de proyectos y
 ![Imagen de ejemplos de comandos de git](https://res.cloudinary.com/practicaldev/image/fetch/s--AS0ya8UC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/rixan4h4z8y94eq89som.png)
 *Tomada de: [🌳🚀 CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)*
 
-### Crear un repositorio
+### 🛠 Crear un repositorio
 Encargado: Johan
 
-### Agregar token de autenticación de GitHub
+### 🔑 Agregar token de autenticación de GitHub
 Encargado: Alberto
 
-### Subida y bajada de cambios a un repositorio remoto
+### 💻 Subida y bajada de cambios a un repositorio remoto
 Encargado: Jorge
