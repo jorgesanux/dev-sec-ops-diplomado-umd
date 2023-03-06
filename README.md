@@ -33,9 +33,11 @@ Git es una herramienta muy poderosa que se utiliza en la mayoría de proyectos y
 ### 🛠 Crear un repositorio
 
 Iremos al portal directo de GitHub y daremos clic en el botón New.
+
 ![Crear repositorio 1](./images/crearepo1.jpg)
 
 Daremos nombre a nuestro repositorio y de acuerdo a su preferencia lo manejaremos público o privado y daremos clic en Create repository
+
 ![Crear repositorio 2](./images/crearepo2.png)
 ![Crear repositorio 3](./images/crearepo3.png)
 
@@ -53,6 +55,7 @@ Iremos a nuestro pc y localizaremos Git Bash
 ![Crear repositorio 6](./images/crearepo6.png)
 
 Como nos menciona la pagina de GitHub ingresaremos las líneas en el Git-Bash
+
 ![Crear repositorio 7](./images/crearepo7.png)
 
 Crearemos una carpeta y continuaremos ingresando las líneas que nos proporciona GitHub
@@ -73,6 +76,7 @@ Crearemos una carpeta y continuaremos ingresando las líneas que nos proporciona
 ![Crear repositorio 12](./images/crearepo12.png)
 
 Luego de ejecutar todas nuestras líneas, ya hemos creado el repositorio y hecho nuestro primer commit.
+
 ![Crear repositorio 13](./images/crearepo13.png)
 
 ### 🔑 Agregar token de autenticación de GitHub
