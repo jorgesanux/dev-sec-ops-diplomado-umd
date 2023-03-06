@@ -1,7 +1,9 @@
 # DEV-SEC-OPS diplomado UMD
 
-![Logo uniminuto](/images/logo-umd.jpg)
-![Logo git](/images/logo-git.png)
+<p align="center">
+    <img src="./images/logo-umd.jpg" alt="logo" width="256"/>
+    <img src="./images/logo-git.png" alt="logo" width="256"/>
+</p>
 
 Repositorio con comandos y usos básicos de Git, herramienta para la gestión y el versionamiento del código en diferentes sistemas operativos.
 
