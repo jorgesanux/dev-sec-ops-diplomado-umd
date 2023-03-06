@@ -34,7 +34,7 @@ Git es una herramienta muy poderosa que se utiliza en la mayoría de proyectos y
 Encargado: Johan
 
 ### 🔑 Agregar token de autenticación de GitHub
-Un Personal access token es una alternativa al uso de contraseñas para la autenticación en GitHub cuando se usa la API de GitHub o la línea de comandos. El Personal access token está diseñado para acceder a los recursos de GitHub en tu nombre.
+Un Token de Acceso Personal es una alternativa al uso de contraseñas para la autenticación en GitHub cuando se usa la API de GitHub o la línea de comandos. El Token de Acceso Personal está diseñado para acceder a los recursos de GitHub en tu nombre.
 
 ### 💻 Subida y bajada de cambios a un repositorio remoto
 Existen varios comandos que permiten realizar todo el proceso de subida y bajada de cambios desde y hacia un repositorio remoto. Estos comandos son:
