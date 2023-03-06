@@ -33,6 +33,8 @@ Git es una herramienta muy poderosa que se utiliza en la mayoría de proyectos y
 ### 🛠 Crear un repositorio
 Encargado: Johan
 
+![Crear repositorio 1](./images/Crear-repo1.png)
+
 ### 🔑 Agregar token de autenticación de GitHub
 Un Token de Acceso Personal es una alternativa al uso de contraseñas para la autenticación en GitHub cuando se usa la API de GitHub o la línea de comandos. El Token de Acceso Personal está diseñado para acceder a los recursos de GitHub en tu nombre.
 
