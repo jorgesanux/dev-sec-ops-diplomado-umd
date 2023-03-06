@@ -33,43 +33,43 @@ Git es una herramienta muy poderosa que se utiliza en la mayoría de proyectos y
 ### 🛠 Crear un repositorio
 
 Iremos al portal directo de GitHub y daremos clic en el botón New.
-![Crear repositorio 1](./images/Crearepo1.jpg)
+![Crear repositorio 1](./images/crearepo1.jpg)
 
 Daremos nombre a nuestro repositorio y de acuerdo a su preferencia lo manejaremos público o privado y daremos clic en Create repository
-![Crear repositorio 2](./images/Crearepo2.png)
-![Crear repositorio 3](./images/Crearepo3.png)
+![Crear repositorio 2](./images/crearepo2.png)
+![Crear repositorio 3](./images/crearepo3.png)
 
 Ya creado el repositorio en GitHub
-![Crear repositorio 4](./images/Crearepo4.png)
+![Crear repositorio 4](./images/crearepo4.png)
 
 Iremos a nuestro pc y localizaremos Git Bash
 
 
-![Crear repositorio 5](./images/Crearepo5.png)
+![Crear repositorio 5](./images/crearepo5.png)
 
 
-![Crear repositorio 6](./images/Crearepo6.png)
+![Crear repositorio 6](./images/crearepo6.png)
 
 Como nos menciona la pagina de GitHub ingresaremos las líneas en el Git-Bash
-![Crear repositorio 7](./images/Crearepo7.png)
+![Crear repositorio 7](./images/crearepo7.png)
 
 Crearemos una carpeta y continuaremos ingresando las líneas que nos proporciona GitHub
-![Crear repositorio 8](./images/Crearepo8.png)
+![Crear repositorio 8](./images/crearepo8.png)
 
 
-![Crear repositorio 9](./images/Crearepo9.png)
+![Crear repositorio 9](./images/crearepo9.png)
 
 
-![Crear repositorio 10](./images/Crearepo10.png)
+![Crear repositorio 10](./images/crearepo10.png)
 
 
-![Crear repositorio 11](./images/Crearepo11.png)
+![Crear repositorio 11](./images/crearepo11.png)
 
 
-![Crear repositorio 12](./images/Crearepo12.png)
+![Crear repositorio 12](./images/crearepo12.png)
 
 Luego de ejecutar todas nuestras líneas, ya hemos creado el repositorio y hecho nuestro primer commit.
-![Crear repositorio 13](./images/Crearepo13.png)
+![Crear repositorio 13](./images/crearepo13.png)
 
 ### 🔑 Agregar token de autenticación de GitHub
 Un Token de Acceso Personal es una alternativa al uso de contraseñas para la autenticación en GitHub cuando se usa la API de GitHub o la línea de comandos. El Token de Acceso Personal está diseñado para acceder a los recursos de GitHub en tu nombre.
