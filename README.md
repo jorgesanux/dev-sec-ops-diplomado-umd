@@ -80,6 +80,7 @@ git pull [<options>] [<repository> [<refspec>...]]
 ### ⚒ Flujo global de trabajo de Git
 \
 ![Estado de trabajo de Git](https://www.git-tower.com/learn/media/pages/git/ebook/en/command-line/remote-repositories/introduction/ca91d7d832-1673968486/basic-remote-workflow.png)
+*Tomada de: [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/introduction)*
 
 ### Autores
 🤵[Jorge Sanabria](https://github.com/jorgesanux)
