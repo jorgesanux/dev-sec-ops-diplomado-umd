@@ -97,6 +97,7 @@ Un Token de Acceso Personal es una alternativa al uso de contraseñas para la au
 11. Si elegiste Solo repositorios seleccionados en el paso anterior, en la lista desplegable Repositorios seleccionados, elige los repositorios a los que quieres que acceda el token.
 12. En Permisos, selecciona los permisos que se concederán al token. En función del propietario del recurso y del acceso al repositorio que hayas especificado, hay permisos de repositorio, de organización y de cuenta. Debes elegir los permisos mínimos que necesites. Para obtener más información sobre los permisos necesarios para cada operación de la API REST, consulta "Permisos necesarios para el fine-grained personal access token".
 13. Haga clic en Generar token.
+
 ![Generar token](./images/token2.png)
 ![Resultado token](./images/token3.png)
 
