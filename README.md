@@ -83,7 +83,6 @@ Luego de ejecutar todas nuestras líneas, ya hemos creado el repositorio y hecho
 Un Token de Acceso Personal es una alternativa al uso de contraseñas para la autenticación en GitHub cuando se usa la API de GitHub o la línea de comandos. El Token de Acceso Personal está diseñado para acceder a los recursos de GitHub en tu nombre.
 
 1. Verifica tu dirección de correo electrónico, si todavía no lo has hecho. En la esquina superior derecha de cualquier página, haga clic en la foto del perfil y, luego, en Settings (Configuración).
-Icono Settings (Parámetros) en la barra de usuario
 ![Menú usuario Settings](./images/token1.png)
 
 2. En la barra lateral izquierda, haga clic en  Developer settings (Configuración de desarrollador).
