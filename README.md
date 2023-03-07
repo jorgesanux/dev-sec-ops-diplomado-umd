@@ -82,6 +82,23 @@ Luego de ejecutar todas nuestras líneas, ya hemos creado el repositorio y hecho
 ### 🔑 Agregar token de autenticación de GitHub
 Un Token de Acceso Personal es una alternativa al uso de contraseñas para la autenticación en GitHub cuando se usa la API de GitHub o la línea de comandos. El Token de Acceso Personal está diseñado para acceder a los recursos de GitHub en tu nombre.
 
+1. Verifica tu dirección de correo electrónico, si todavía no lo has hecho. En la esquina superior derecha de cualquier página, haga clic en la foto del perfil y, luego, en Settings (Configuración).
+Icono Settings (Parámetros) en la barra de usuario
+![Menú usuario Settings](./images/token1.png)
+
+2. En la barra lateral izquierda, haga clic en  Developer settings (Configuración de desarrollador).
+3. En la barra lateral izquierda, en  Personal access token , haz clic en Tokens específicos.
+4. Haga clic en Generate new token (Generar nuevo token).
+5. En Nombre del token, escribe un nombre para el token.
+6. En Expiración, selecciona cuándo expirará el token.
+7. Opcionalmente, en Descripción, agrega una nota para describir el propósito del token.
+8. En Propietario del recurso, selecciona un propietario del recurso. El token solo podrá acceder a los recursos que pertenecen al propietario del recurso seleccionado. Las organizaciones a las que pertenezcas no aparecerán a menos que hayan optado por el uso de un fine-grained personal access token. Para obtener más información, consulta "Establecimiento de una directiva de personal access token para la organización".
+9. Opcionalmente, si el propietario del recurso es una organización que requiere aprobación para el uso de un fine-grained personal access token, escribe una justificación para la solicitud en el cuadro que aparece debajo del propietario del recurso.
+10. En Acceso al repositorio, selecciona los repositorios a los que quieres que acceda el token. Debes elegir el acceso mínimo al repositorio que satisfaga tus necesidades. Los tokens siempre incluyen acceso de solo lectura a todos los repositorios públicos de GitHub.
+11. Si elegiste Solo repositorios seleccionados en el paso anterior, en la lista desplegable Repositorios seleccionados, elige los repositorios a los que quieres que acceda el token.
+12. En Permisos, selecciona los permisos que se concederán al token. En función del propietario del recurso y del acceso al repositorio que hayas especificado, hay permisos de repositorio, de organización y de cuenta. Debes elegir los permisos mínimos que necesites. Para obtener más información sobre los permisos necesarios para cada operación de la API REST, consulta "Permisos necesarios para el fine-grained personal access token".
+13. Haga clic en Generar token.
+
 ### 💻 Subida y bajada de cambios a un repositorio remoto
 Existen varios comandos que permiten realizar todo el proceso de subida y bajada de cambios desde y hacia un repositorio remoto. Estos comandos son:
 - Add: Agrega los cambios/archivos a la sección de stage del repositorio local.\
